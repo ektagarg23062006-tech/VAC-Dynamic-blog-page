@@ -1,0 +1,1 @@
+# VAC-Dynamic-blog-page
